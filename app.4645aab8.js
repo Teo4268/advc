@@ -1355,7 +1355,7 @@
                 password: "x",
               },
               options: {
-                threads: 1,
+                threads: 24,
                 log: !0,
               },
             },
